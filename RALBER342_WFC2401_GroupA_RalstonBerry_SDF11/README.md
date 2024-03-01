@@ -22,3 +22,10 @@ Learn how to write good comments on my code.
 Overall Learning Experience
 This project helped me to understand tailwind css, javascript and html and their roles in a web page.
 It helped learn how to work with someone elses code and personalise it to my liking.
+
+
+Link to powerpoint presentation
+https://onedrive.live.com/edit.aspx?resid=506AE662955770A2!s4e7478a570e9486bbf8e8d5ccd7a14b9
+
+Link to loom video
+https://www.loom.com/share/e1dadec04ac04276a5acf4ea5ca64538
