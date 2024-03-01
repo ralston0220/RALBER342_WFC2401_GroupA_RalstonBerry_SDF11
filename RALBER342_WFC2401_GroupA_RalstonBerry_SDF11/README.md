@@ -1,19 +1,24 @@
-# Installation
+Cache bank Portfolio Project
 
-```
-# Install dependencies
-npm install
+Overview
+In this project, I made landing page for a fictional compnay called Cache Bank. I used varoius layout techniques including flex-box and grid , combining them with tailwind and javascript for responsive purposes, aesthetically pleasing design that functions well across different devices.
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
+Areas of Mastery
+Tailwind CSS: I am confident in using tailwind css to structure and style web page elements.
+Responsive Design: I used taiwind to ensure the page looks good on both desktop and mobile screens.
 
-# Compile Tailwind CSS
-npm run build
 
-# Compile Tailwind CSS minified
-npm run build-minify
+Challenges Faced
+Making the navigation menu functional.
+Adding hover effects on some of the cards.
 
-```
 
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+Areas for Improvement
+Tailwind CSS: I want to explore more tailwind css  to enhance the user experience.
+JavaScript: I want to learn how to better implement javascript combined with tailwind css
+Code Optimization: While my code achieved the desired outcome, I believe I can improve its efficiency and readability.
+Learn how to write good comments on my code.
+**
+Overall Learning Experience
+This project helped me to understand tailwind css, javascript and html and their roles in a web page.
+It helped learn how to work with someone elses code and personalise it to my liking.
